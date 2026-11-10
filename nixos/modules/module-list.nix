@@ -637,6 +637,7 @@
   ./services/desktops/tumbler.nix
   ./services/desktops/wlock.nix
   ./services/desktops/zeitgeist.nix
+  ./services/development/antigravity.nix
   ./services/development/athens.nix
   ./services/development/blackfire.nix
   ./services/development/bloop.nix
